@@ -1,0 +1,123 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20210224)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.4735677 Released 2021-05-01
+Analyzed List:	Client Text Box Input (Homo sapiens)
+Reference List:	Homo sapiens (all genes in database)
+Test Type:	FISHER
+Correction:	FDR
+GO biological process complete	Homo sapiens - REFLIST (20595)	Client Text Box Input (943)	Client Text Box Input (expected)	Client Text Box Input (over/under)	Client Text Box Input (fold Enrichment)	Client Text Box Input (raw P-value)	Client Text Box Input (FDR)
+chromatin remodeling (GO:0006338)	173	21	7.92	+	2.65	1.27E-04	2.11E-02
+mitotic cell cycle checkpoint signaling (GO:0007093)	159	19	7.28	+	2.61	3.12E-04	4.53E-02
+mRNA splicing, via spliceosome (GO:0000398)	303	36	13.87	+	2.59	1.15E-06	3.65E-04
+RNA splicing, via transesterification reactions with bulged adenosine as nucleophile (GO:0000377)	303	36	13.87	+	2.59	1.15E-06	3.58E-04
+RNA splicing, via transesterification reactions (GO:0000375)	306	36	14.01	+	2.57	1.34E-06	4.00E-04
+negative regulation of mitotic cell cycle phase transition (GO:1901991)	240	26	10.99	+	2.37	1.24E-04	2.09E-02
+RNA splicing (GO:0008380)	409	44	18.73	+	2.35	1.03E-06	3.38E-04
+mRNA processing (GO:0006397)	486	52	22.25	+	2.34	9.17E-08	5.37E-05
+regulation of autophagy (GO:0010506)	331	35	15.16	+	2.31	1.47E-05	3.03E-03
+negative regulation of mitotic cell cycle (GO:0045930)	294	30	13.46	+	2.23	1.56E-04	2.50E-02
+methylation (GO:0032259)	313	31	14.33	+	2.16	1.51E-04	2.46E-02
+covalent chromatin modification (GO:0016569)	367	36	16.80	+	2.14	6.00E-05	1.08E-02
+histone modification (GO:0016570)	363	35	16.62	+	2.11	9.61E-05	1.67E-02
+mRNA metabolic process (GO:0016071)	697	66	31.91	+	2.07	1.77E-07	8.76E-05
+regulation of mRNA metabolic process (GO:1903311)	376	35	17.22	+	2.03	2.04E-04	3.15E-02
+chromatin organization (GO:0006325)	703	65	32.19	+	2.02	3.56E-07	1.52E-04
+response to radiation (GO:0009314)	452	40	20.70	+	1.93	1.92E-04	3.00E-02
+RNA processing (GO:0006396)	930	81	42.58	+	1.90	1.45E-07	7.90E-05
+regulation of catabolic process (GO:0009894)	1066	89	48.81	+	1.82	1.79E-07	8.56E-05
+regulation of cellular catabolic process (GO:0031329)	899	74	41.16	+	1.80	3.92E-06	9.68E-04
+chromosome organization (GO:0051276)	1064	84	48.72	+	1.72	3.63E-06	9.10E-04
+RNA metabolic process (GO:0016070)	1582	122	72.44	+	1.68	6.29E-08	3.83E-05
+regulation of protein localization (GO:0032880)	894	68	40.93	+	1.66	9.87E-05	1.70E-02
+cellular response to DNA damage stimulus (GO:0006974)	793	60	36.31	+	1.65	3.06E-04	4.49E-02
+nucleic acid metabolic process (GO:0090304)	2217	167	101.51	+	1.65	5.54E-10	7.29E-07
+negative regulation of nucleobase-containing compound metabolic process (GO:0045934)	1528	115	69.96	+	1.64	4.43E-07	1.75E-04
+negative regulation of RNA metabolic process (GO:0051253)	1408	105	64.47	+	1.63	2.35E-06	6.42E-04
+heterocycle biosynthetic process (GO:0018130)	1049	78	48.03	+	1.62	6.61E-05	1.16E-02
+leukocyte activation (GO:0045321)	939	69	42.99	+	1.60	2.62E-04	3.87E-02
+negative regulation of cellular biosynthetic process (GO:0031327)	1610	118	73.72	+	1.60	1.12E-06	3.60E-04
+negative regulation of transcription, DNA-templated (GO:0045892)	1297	95	59.39	+	1.60	1.76E-05	3.56E-03
+nucleobase-containing compound metabolic process (GO:0006139)	2705	198	123.86	+	1.60	9.07E-11	1.59E-07
+negative regulation of nucleic acid-templated transcription (GO:1903507)	1299	95	59.48	+	1.60	1.78E-05	3.57E-03
+negative regulation of RNA biosynthetic process (GO:1902679)	1301	95	59.57	+	1.59	1.81E-05	3.58E-03
+negative regulation of macromolecule biosynthetic process (GO:0010558)	1551	113	71.02	+	1.59	2.57E-06	6.88E-04
+cellular nitrogen compound biosynthetic process (GO:0044271)	1553	113	71.11	+	1.59	2.63E-06	6.82E-04
+gene expression (GO:0010467)	2117	154	96.93	+	1.59	2.66E-08	1.91E-05
+negative regulation of cellular macromolecule biosynthetic process (GO:2000113)	1540	112	70.51	+	1.59	3.21E-06	8.19E-04
+negative regulation of biosynthetic process (GO:0009890)	1643	119	75.23	+	1.58	1.87E-06	5.28E-04
+heterocycle metabolic process (GO:0046483)	2891	209	132.37	+	1.58	6.04E-11	1.19E-07
+cellular aromatic compound metabolic process (GO:0006725)	2937	209	134.48	+	1.55	2.08E-10	3.29E-07
+protein-containing complex subunit organization (GO:0043933)	1605	114	73.49	+	1.55	6.72E-06	1.54E-03
+cellular nitrogen compound metabolic process (GO:0034641)	3395	239	155.45	+	1.54	1.47E-11	3.32E-08
+organic cyclic compound biosynthetic process (GO:1901362)	1196	84	54.76	+	1.53	2.32E-04	3.49E-02
+organic cyclic compound metabolic process (GO:1901360)	3182	221	145.70	+	1.52	4.31E-10	6.20E-07
+organonitrogen compound biosynthetic process (GO:1901566)	1379	94	63.14	+	1.49	2.11E-04	3.23E-02
+cellular response to stress (GO:0033554)	1741	117	79.72	+	1.47	6.60E-05	1.17E-02
+positive regulation of RNA metabolic process (GO:0051254)	1773	119	81.18	+	1.47	5.90E-05	1.07E-02
+biosynthetic process (GO:0009058)	2865	192	131.18	+	1.46	1.35E-07	7.62E-05
+cellular macromolecule biosynthetic process (GO:0034645)	1639	109	75.05	+	1.45	1.51E-04	2.44E-02
+organic substance biosynthetic process (GO:1901576)	2803	186	128.34	+	1.45	3.87E-07	1.61E-04
+organelle organization (GO:0006996)	3567	236	163.33	+	1.44	7.03E-09	5.55E-06
+macromolecule biosynthetic process (GO:0009059)	1680	111	76.92	+	1.44	1.76E-04	2.79E-02
+negative regulation of nitrogen compound metabolic process (GO:0051172)	2453	160	112.32	+	1.42	8.56E-06	1.81E-03
+positive regulation of nucleobase-containing compound metabolic process (GO:0045935)	1941	126	88.87	+	1.42	1.17E-04	1.99E-02
+cellular biosynthetic process (GO:0044249)	2715	176	124.31	+	1.42	4.07E-06	9.89E-04
+negative regulation of cellular metabolic process (GO:0031324)	2613	169	119.64	+	1.41	7.36E-06	1.64E-03
+negative regulation of macromolecule metabolic process (GO:0010605)	2880	183	131.87	+	1.39	7.08E-06	1.60E-03
+regulation of nucleobase-containing compound metabolic process (GO:0019219)	4049	256	185.39	+	1.38	5.67E-08	3.58E-05
+regulation of RNA metabolic process (GO:0051252)	3782	237	173.17	+	1.37	5.26E-07	1.98E-04
+positive regulation of metabolic process (GO:0009893)	3820	239	174.91	+	1.37	4.70E-07	1.81E-04
+establishment of localization in cell (GO:0051649)	2335	145	106.91	+	1.36	2.52E-04	3.76E-02
+negative regulation of metabolic process (GO:0009892)	3095	192	141.71	+	1.35	1.94E-05	3.78E-03
+cellular localization (GO:0051641)	2985	185	136.68	+	1.35	2.76E-05	5.14E-03
+regulation of transcription, DNA-templated (GO:0006355)	3474	214	159.07	+	1.35	7.60E-06	1.67E-03
+regulation of nucleic acid-templated transcription (GO:1903506)	3475	214	159.11	+	1.34	7.63E-06	1.65E-03
+regulation of RNA biosynthetic process (GO:2001141)	3480	214	159.34	+	1.34	7.81E-06	1.67E-03
+regulation of cellular macromolecule biosynthetic process (GO:2000112)	3968	244	181.69	+	1.34	1.30E-06	3.94E-04
+nitrogen compound metabolic process (GO:0006807)	6886	423	315.29	+	1.34	1.27E-12	6.67E-09
+positive regulation of cellular metabolic process (GO:0031325)	3314	203	151.74	+	1.34	2.18E-05	4.15E-03
+regulation of biosynthetic process (GO:0009889)	4226	258	193.50	+	1.33	9.90E-07	3.33E-04
+positive regulation of macromolecule metabolic process (GO:0010604)	3522	215	161.26	+	1.33	1.28E-05	2.66E-03
+regulation of macromolecule biosynthetic process (GO:0010556)	3999	244	183.11	+	1.33	2.58E-06	6.80E-04
+positive regulation of nitrogen compound metabolic process (GO:0051173)	3123	190	143.00	+	1.33	5.77E-05	1.06E-02
+regulation of cellular biosynthetic process (GO:0031326)	4163	253	190.61	+	1.33	1.98E-06	5.48E-04
+cellular metabolic process (GO:0044237)	7542	455	345.33	+	1.32	1.29E-12	5.10E-09
+cellular component biogenesis (GO:0044085)	2754	166	126.10	+	1.32	3.13E-04	4.50E-02
+primary metabolic process (GO:0044238)	7352	442	336.63	+	1.31	7.21E-12	2.28E-08
+cellular macromolecule metabolic process (GO:0044260)	4909	293	224.77	+	1.30	7.40E-07	2.60E-04
+metabolic process (GO:0008152)	8313	496	380.63	+	1.30	1.56E-13	2.46E-09
+macromolecule metabolic process (GO:0043170)	6151	365	281.64	+	1.30	1.75E-08	1.32E-05
+organic substance metabolic process (GO:0071704)	7840	465	358.98	+	1.30	8.26E-12	2.18E-08
+regulation of cellular metabolic process (GO:0031323)	6138	362	281.05	+	1.29	3.98E-08	2.73E-05
+regulation of metabolic process (GO:0019222)	6874	405	314.75	+	1.29	2.43E-09	2.40E-06
+regulation of primary metabolic process (GO:0080090)	5925	347	271.29	+	1.28	2.21E-07	1.03E-04
+regulation of gene expression (GO:0010468)	4922	288	225.37	+	1.28	6.18E-06	1.44E-03
+response to stress (GO:0006950)	3626	212	166.03	+	1.28	2.11E-04	3.21E-02
+cellular component organization (GO:0016043)	5783	338	264.79	+	1.28	4.04E-07	1.64E-04
+cellular component organization or biogenesis (GO:0071840)	6006	348	275.00	+	1.27	6.46E-07	2.37E-04
+regulation of macromolecule metabolic process (GO:0060255)	6340	367	290.29	+	1.26	2.54E-07	1.15E-04
+regulation of nitrogen compound metabolic process (GO:0051171)	5740	332	262.82	+	1.26	1.72E-06	5.03E-04
+positive regulation of cellular process (GO:0048522)	5741	332	262.87	+	1.26	1.72E-06	4.95E-04
+negative regulation of cellular process (GO:0048523)	4902	283	224.45	+	1.26	2.11E-05	4.07E-03
+organonitrogen compound metabolic process (GO:1901564)	5246	299	240.20	+	1.24	2.73E-05	5.13E-03
+positive regulation of biological process (GO:0048518)	6331	357	289.88	+	1.23	5.59E-06	1.32E-03
+negative regulation of biological process (GO:0048519)	5501	306	251.88	+	1.21	1.48E-04	2.43E-02
+cellular process (GO:0009987)	15495	787	709.48	+	1.11	2.65E-09	2.47E-06
+regulation of cellular process (GO:0050794)	11351	576	519.74	+	1.11	3.34E-04	4.75E-02
+biological_process (GO:0008150)	17851	870	817.36	+	1.06	1.47E-07	7.75E-05
+Unclassified (UNCLASSIFIED)	2744	73	125.64	-	.58	1.47E-07	7.50E-05
+system process (GO:0003008)	2057	51	94.19	-	.54	9.51E-07	3.27E-04
+nervous system process (GO:0050877)	1416	29	64.84	-	.45	7.09E-07	2.55E-04
+detection of stimulus (GO:0051606)	721	10	33.01	-	.30	5.30E-06	1.27E-03
+sensory perception (GO:0007600)	979	13	44.83	-	.29	4.43E-08	2.91E-05
+G protein-coupled receptor signaling pathway (GO:0007186)	1305	13	59.75	-	.22	3.43E-13	2.71E-09
+detection of stimulus involved in sensory perception (GO:0050906)	557	4	25.50	-	.16	3.35E-07	1.47E-04
+detection of chemical stimulus (GO:0009593)	522	1	23.90	-	.04	3.11E-09	2.73E-06
+sensory perception of chemical stimulus (GO:0007606)	543	1	24.86	-	.04	8.96E-10	1.01E-06
+detection of chemical stimulus involved in sensory perception of smell (GO:0050911)	441	0	20.19	-	 < 0.01	4.49E-09	3.73E-06
+detection of chemical stimulus involved in sensory perception (GO:0050907)	486	0	22.25	-	 < 0.01	6.26E-10	7.62E-07
+sensory perception of smell (GO:0007608)	468	0	21.43	-	 < 0.01	1.38E-09	1.45E-06

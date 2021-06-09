@@ -1,22 +1,14 @@
 
 source('lib.R')
-# library(tidyr)   # replace_na
-# library(tibble)  # column_to_rownames
 
-###
 
 #NAME <- 'H3K4me3_GM12878.ENCFF023LTU.hg19'
 #NAME <- 'H3K4me3_GM12878.ENCFFo23LTU.hg38'
 #NAME <- 'H3K4me3_GM12878.ENCFF432EMI.hg19'
 NAME <- 'H3K4me3_GM12878.ENCFF432EMI.hg38'
-#OUT_DIR <- 'Results/'
+#OUT_DIR <- '/Users/melanie/Desktop/bioinf/project/gitproject/hse21_H3K4me3_G4_human/images/'
 
 #Убрать сильно длинные участки, если есть
-
-# library(tidyr)   # replace_na
-# library(tibble)  # column_to_rownames
-
-
 
 bed_df <- read.delim(paste0('data_dir', NAME, '.bed'), as.is = TRUE, header = FALSE)
 colnames(bed_df) <- c('chrom', 'start', 'end', 'name', 'score')
@@ -36,5 +28,5 @@ ggsave(paste0('filtered.', NAME, '.filtered.pdf'), path = OUT_DIR)
 
 bed_df %>%
   select(-len) %>%
-  write.table(file=data_dir,
+  write.table(file=data_dir_filtered,
               col.names = FALSE, row.names = FALSE, sep = '\t', quote = FALSE)
