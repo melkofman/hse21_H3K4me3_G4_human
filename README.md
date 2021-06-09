@@ -134,7 +134,7 @@ https://raw.githubusercontent.com/melkofman/bioinf_project_G4_H3K4me3/mokofman/d
  Красным отмечено пересечение, которое мы получили. Синим - объединенные пики. Зеленым - вторичная структура ДНК. 
  Видно, что красная полоса соответствует пересечению синей и зеленой. 
  
- 
+ [Сессия ген браузера](https://github.com/melkofman/bioinf_project_G4_H3K4me3/blob/mokofman/data/gen_browser_session) 
 #### Ассоциация пиков с генами. 
   [Скрипт](https://github.com/melkofman/bioinf_project_G4_H3K4me3/blob/mokofman/src/ChIpPeakAnno.R) позволяет получить ассоциацию пиков с генами.  
  
